@@ -7,11 +7,12 @@
 * BA Culture and Technology at the Technical University of Berlin
 
 * Project manager at NPO in the field of Arts/Cultural Education in Berlin
+
   * [kubinaut.de](https://www.kubinaut.de/de)
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
-
 ---
+
 ### How to Future?
 * MA Future Studies at the Free University of Berlin
   * Agent-based Modeling

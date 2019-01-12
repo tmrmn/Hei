@@ -15,7 +15,7 @@
 
 
 ---?image=assets/img/2.jpg
-### How to Future?
+### How to study the Future?
 * MA Future Studies at the Free University of Berlin
   * Agent-based Modeling
   * Semester in SF

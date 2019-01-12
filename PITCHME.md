@@ -2,7 +2,7 @@
 # Hei
 ### - Background Stories -
 
----?image=assets/img/1.jpg
+---?image=assets/images/1.jpg&position=left&size=55% 100%
 ### Technology and Culture
 * BA Culture and Technology at the Technical University of Berlin
 
@@ -10,9 +10,7 @@
 
   * [kubinaut.de](https://www.kubinaut.de/de)
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
-
   * [infonetkalender.de](http://www.infonetkalender.de/)
-
 
 ---?image=assets/img/2.jpg
 ### How to study the Future?

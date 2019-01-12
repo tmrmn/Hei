@@ -11,19 +11,18 @@ Project manager at NPO in the field of Arts/Cultural Education in Berlin
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
----
+---?color=#E58537
 ### How to Future?
 MA Future Studies at the Free University of Berlin
   * Agent-based Modeling
   * Semester in SF
   * Conceptualized a Simulation for estimating attitude change processes in teams over time
 
-  @snap[east span-50]
-  ![](assets/img/coliving.jpg)
 ---
+### Institute For Urban Futures
 
-###
-@snapend
+[vimeo https://vimeo.com/285110972]
+
 ---
 @snap[east span-50]
 ![](assets/img/presentation.png)

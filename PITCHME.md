@@ -30,19 +30,19 @@
 @snapend
 ---
 
-@snap[north-west span-75]
+@snap[north-west span-60]
 ![](assets/img/WS1.jpg)
 @snapend
 
-@snap[north-east span-50]
+@snap[north-east span-60]
 ![](assets/img/WS2.jpg)
 @snapend
 
-@snap[south-west span-50]
+@snap[south-west span-60]
 ![](assets/img/WS3.jpg)
 @snapend
 
-@snap[south-east span-50]
+@snap[south-east span-60]
 ![](assets/img/WS4.jpg)
 @snapend
 

@@ -27,16 +27,16 @@
 * Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences Potsdam
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
-@snap[south-west span-100]
+@snap[south-west span-75]
 ![](assets/img/UZ_l.png)
 @snapend
 
-@snap[south span-100]
+@snap[south span-75]
 ![](assets/img/UZ_m.png)
 @snapend
 
-@snap[south-east span-100]
-![](assets/imgUZ_r.png)
+@snap[south-east span-75]
+![](assets/img/UZ_r.png)
 @snapend
 
 

@@ -12,7 +12,7 @@
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
----?image=assets/img/2.jpg
+---?image=assets/img/2.jpg&size=cover&opacity=20
 ### How to study the Future?
 * MA Future Studies at the Free University of Berlin
   * Agent-based Modeling
@@ -41,7 +41,7 @@
 
 ---?image=assets/img/4.jpg
 
-@snap[midpoint span-75]
+@snap[midpoint span-90]
 @box[bg-white text-black rounded demo-box-pad](Participatory Modeling#PM aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.)
 @snapend
 

@@ -28,7 +28,7 @@
 ![Logo](assets/img/logo_ui.png)
 ---
 @snap[east]
-@img[shadow](assets/img/video.png)
+@img[shadow](assets\img\video.png)
 @snapped
 ---
 

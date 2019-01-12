@@ -1,12 +1,11 @@
 # Hei
 ### Timo's intro to Bridge
-
----
+---?image=assets/img/cover.jpg
 
 ### Technology and Culture
 * BA Culture and Technology at the Technical University of Berlin
 
-* Project manager at NPO in the field of Arts/Cultural Education in Berlin
+* Project manager at NPO in the field of Arts and Cultural Education in Berlin
 
   * [kubinaut.de](https://www.kubinaut.de/de)
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
@@ -27,7 +26,7 @@
 ---
 @snap[midpoint span-75]
 ![What?!](assets/img/video.JPG)
-[PaSyMo Video]](https://vimeo.com/285110972)
+[Start the Video](https://vimeo.com/285110972)
 @snapend
 
 

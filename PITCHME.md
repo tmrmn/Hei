@@ -30,7 +30,7 @@
 @snapend
 ---
 
-@snap[north-west span-50]
+@snap[north-west span-75]
 ![](assets/img/WS1.jpg)
 @snapend
 

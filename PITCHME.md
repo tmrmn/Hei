@@ -40,8 +40,10 @@
 
 
 ---?image=assets/img/4.jpg
-### Participatory Modeling
-@color[white](PM aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.)
+
+@snap[midpoint span-75]
+@box[bg-white text-black rounded demo-box-pad](Participatory Modeling#PM aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.)
+@snapend
 
 ---?image=assets/img/4.jpg
 @snap[midpoint span-75]

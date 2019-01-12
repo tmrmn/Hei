@@ -19,11 +19,11 @@
   * Semester in SF
   * Thesis: conceptualized a simulation for estimating attitude change processes in teams over time
 ---
-@snap[north]
+
 ### Institute for Urban Futures
 * Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
-@snapped
+
 
 @snap[south-west span-50]
 ![](assets/img/UZ_l.png)

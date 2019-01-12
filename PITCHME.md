@@ -15,9 +15,9 @@
 ---?image=assets/img/2.jpg&size=cover&opacity=20
 ### How to study the Future?
 * MA Future Studies at the Free University of Berlin
-  * Agent-based Modeling
-  * Semester in SF
-  * Thesis: conceptualized a simulation for estimating attitude change processes in teams over time
+* Agent-based Modeling
+* Semester in SF
+* Thesis: conceptualized a simulation for estimating attitude change processes in teams over time
 
 ---
 

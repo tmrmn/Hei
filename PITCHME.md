@@ -36,10 +36,20 @@ PM aims at facilitating on-side collaborative learning processes by which partic
 [Start the Video](https://vimeo.com/285110972)
 @snapend
 
----
-
-
-
+---?image=assets/img/a_Page_01.jpg
+---?image=assets/img/a_Page_02.jpg
+---?image=assets/img/a_Page_03.jpg
+---?image=assets/img/a_Page_04.jpg
+---?image=assets/img/a_Page_05.jpg
+---?image=assets/img/a_Page_06.jpg
+---?image=assets/img/a_Page_07.jpg
+---?image=assets/img/a_Page_08.jpg
+---?image=assets/img/a_Page_09.jpg
+---?image=assets/img/a_Page_10.jpg
+---?image=assets/img/a_Page_11.jpg
+---?image=assets/img/a_Page_12.jpg
+---?image=assets/img/a_Page_13.jpg
+---?image=assets/img/a_Page_14.jpg
 
 ---
 @snap[south-west span-55]

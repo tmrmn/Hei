@@ -24,18 +24,18 @@
 )
 ---
 ### Institute for Urban Futures
-* Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences Potsdam
+* Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
-@snap[south-west span-75]
+@snap[south-west span-50]
 ![](assets/img/UZ_l.png)
 @snapend
 
-@snap[south span-75]
+@snap[south span-50]
 ![](assets/img/UZ_m.png)
 @snapend
 
-@snap[south-east span-75]
+@snap[south-east span-50]
 ![](assets/img/UZ_r.png)
 @snapend
 

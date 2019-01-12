@@ -2,14 +2,16 @@
 
 ---
 
-## Background
-1. BA Culture and Technics at the Technical University of Berlin
+## Background A)
+1. BA Culture and Technology at the Technical University of Berlin
 2. Project manager at NPO in the field of Arts/Cultural Education in Berlin
-- ![kubinaut.de - navigation cultural education](https://www.kubinaut.de/de)
-- ![FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
-- ![infonetkalender.de](http://www.infonetkalender.de/)
+- [kubinaut.de - Navigation Kulturelle Bildung](https://www.kubinaut.de/de)
+- [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
+- [infonetkalender.de](http://www.infonetkalender.de/)
 
 ---
+## Background 2
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]

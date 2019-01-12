@@ -1,6 +1,6 @@
 ---?image=assets/img/cover.jpg
-# Hei
-### Timo's intro to Bridge
+# Hei :)
+### Introduction to Bridge
 ---
 
 ### Technology and Culture

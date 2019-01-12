@@ -2,7 +2,7 @@
 # Hei
 ### - Background Stories -
 
----?image=assets/img/1.jpg&position=bottom&size=100% 10%
+---?image=assets/img/1.jpg&position=top&size=100% 20%
 ### PAST
 * BA Culture and Technology at the Technical University of Berlin
 

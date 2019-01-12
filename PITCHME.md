@@ -1,24 +1,28 @@
 # Hei
-#### Timos intro to Bridge
-
----?image=assets/img/logo-uit.jpg
-
-### Background I
-1. BA Culture and Technology at the Technical University of Berlin
-2. Project manager at NPO in the field of Arts/Cultural Education in Berlin
-* [kubinaut.de - Navigation Kulturelle Bildung](https://www.kubinaut.de/de)
-* [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
-* [infonetkalender.de](http://www.infonetkalender.de/)
+#### Timo's intro to Bridge
 
 ---
-## Background II
 
-@title[Customize Slide Layout]
+#### Technology for Culture?
+1. BA Culture and Technology at the Technical University of Berlin
+2. Project manager at NPO in the field of Arts/Cultural Education in Berlin
+  * [kubinaut.de - Navigation Kulturelle Bildung](https://www.kubinaut.de/de)
+  * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
+  * [infonetkalender.de](http://www.infonetkalender.de/)
+---
 
-@snap[west span-50]
+#### How to talk about Future?
+3. MA Future Studies at the Free University of Berlin
+  * Agent Based Modeling
+  * Semester in SF
+  * Conceptualized a Simulation for estimating attitude change processes in teams over time
+---
+
+
+
 ## Customize Slide Content Layout
 @snapend
-
+---
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend

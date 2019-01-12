@@ -25,8 +25,9 @@
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
 ---
+@snap[east]
 @img[shadow](assets/img/video.png)
-
+@snapped
 ---
 
 @snap[east span-50]

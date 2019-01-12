@@ -2,8 +2,8 @@
 # Hei
 ### - Background Stories -
 
----?image=assets/images/1.jpg&position=left&size=55% 100%
-### Technology and Culture
+---?image=assets/img/1.jpg&position=left&size=55% 100%
+### PAST
 * BA Culture and Technology at the Technical University of Berlin
 
 * Project manager at a NPO in the field of Arts and Cultural Education in Berlin

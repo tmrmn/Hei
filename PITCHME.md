@@ -16,12 +16,10 @@
 
 ---?image=assets/img/2.jpg
 ### How to study the Future?
-@color[yellow](
 * MA Future Studies at the Free University of Berlin
   * Agent-based Modeling
   * Semester in SF
-  * Conceptualized a Simulation for estimating attitude change processes in teams over time
-)
+  * Conceptualized a simulation for estimating attitude change processes in teams over time
 ---
 ### Institute for Urban Futures
 * Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam

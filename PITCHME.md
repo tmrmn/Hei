@@ -30,7 +30,7 @@
 
 ---
 
-![What](assets/img/video.png)
+![What](assets/img/video.JPG)
 ---
 
 @snap[east span-50]

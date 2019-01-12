@@ -46,9 +46,7 @@
 @snapend
 
 ---?image=assets/img/4.jpg
-@snap[midpoint span-80]
 ![Start the Video](https://player.vimeo.com/video/285110972)
-@snapend
 
 ---
 

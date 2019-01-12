@@ -1,8 +1,8 @@
 ---?image=assets/img/cover.jpg
-# Hei :)
+# Hei
 ### Introduction to Bridge
----
 
+---?image=assets/img/1.jpg
 ### Technology and Culture
 * BA Culture and Technology at the Technical University of Berlin
 
@@ -10,25 +10,35 @@
 
   * [kubinaut.de](https://www.kubinaut.de/de)
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
-  * [infonetkalender.de](http://www.infonetkalender.de/)
----
 
+  * [infonetkalender.de](http://www.infonetkalender.de/)
+
+
+---?image=assets/img/2.jpg
 ### How to Future?
 * MA Future Studies at the Free University of Berlin
   * Agent-based Modeling
   * Semester in SF
   * Conceptualized a Simulation for estimating attitude change processes in teams over time
 
----
+---?image=assets/img/3.jpg
 ### Institute for Urban Futures
 * Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences Potsdam
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
----
+---?image=assets/img/4.jpg
+### Participatory Modeling
+PM aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
+
+---?image=assets/img/4.jpg
 @snap[midpoint span-75]
 ![What?!](assets/img/video.JPG)
 [Start the Video](https://vimeo.com/285110972)
 @snapend
+
+---
+
+
 
 
 ---

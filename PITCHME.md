@@ -11,21 +11,24 @@
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
----?color=#E58537
+---
 ### How to Future?
-MA Future Studies at the Free University of Berlin
+* MA Future Studies at the Free University of Berlin
   * Agent-based Modeling
   * Semester in SF
   * Conceptualized a Simulation for estimating attitude change processes in teams over time
 
 ---
-### Institute For Urban Futures
-
-[vimeo https://vimeo.com/285110972]
+### Institute for Urban Futures
+* Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences Potsdam
+* Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
 ---
+![[Video PaSyMo](https://i.imgur.com/gPF2TRQ.jpg)] (https://vimeo.com/285110972)
+---
+
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](assets/img/test.png)
 @snapend
 
 ---?color=#E58537

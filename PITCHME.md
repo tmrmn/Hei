@@ -24,15 +24,28 @@
 * Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences Potsdam
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
----?color=white
+---
 @snap[midpoint span-75]
 ![What](assets/img/video.JPG)
 @snapend
 ---
 
-@snap[east span-50]
-![](assets/img/logo_ui.png)
+@snap[north-west span-50]
+![](assets/img/WS1.jpg)
 @snapend
+
+@snap[north-east span-50]
+![](assets/img/WS2.jpg)
+@snapend
+
+@snap[south-west span-50]
+![](assets/img/WS3.jpg)
+@snapend
+
+@snap[south-east span-50]
+![](assets/img/WS4.jpg)
+@snapend
+
 
 ---?color=#E58537
 @title[Add A Little Imagination]

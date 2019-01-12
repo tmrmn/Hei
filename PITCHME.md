@@ -25,7 +25,10 @@
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
 ---
-![[Video PaSyMo](https://i.imgur.com/gPF2TRQ.jpg)] (https://vimeo.com/285110972)
+![[Video PaSyMo](https://i.imgur.com/gPF2TRQ.jpg)](https://vimeo.com/285110972)
+
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
 ---
 
 @snap[east span-50]

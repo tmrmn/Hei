@@ -25,12 +25,12 @@
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
 ---
-[![Video PaSyMo](../assets/img/video.png)](https://vimeo.com/285110972)
+[![Video PaSyMo](assets/img/video.png)](https://vimeo.com/285110972)
 
 ---
 
 @snap[east span-50]
-![](assets/img/test.png)
+![](assets/img/logo_ui.png)
 @snapend
 
 ---?color=#E58537

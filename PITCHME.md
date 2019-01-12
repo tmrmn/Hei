@@ -1,6 +1,6 @@
 ---?image=assets/img/cover.jpg
 # Hei
-### Introduction to Bridge
+### - Background Stories -
 
 ---?image=assets/img/1.jpg
 ### Technology and Culture

@@ -1,6 +1,7 @@
+---?image=assets/img/cover.jpg
 # Hei
 ### Timo's intro to Bridge
----?image=assets/img/cover.jpg
+---
 
 ### Technology and Culture
 * BA Culture and Technology at the Technical University of Berlin

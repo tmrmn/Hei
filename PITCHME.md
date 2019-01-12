@@ -26,12 +26,10 @@
 
 ---
 @snap[midpoint span-75]
-![What](assets/img/video.JPG)
+[![What](assets/img/video.JPG)](www.google.de)
 @snapend
+
 ---
-
-
-
 @snap[south-west span-55]
 ![](assets/img/WS3.jpg)
 @snapend

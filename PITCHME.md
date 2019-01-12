@@ -18,22 +18,22 @@
   * Agent-based Modeling
   * Semester in SF
   * Thesis: conceptualized a simulation for estimating attitude change processes in teams over time
+
 ---
 
 ### Institute for Urban Futures
 * Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
 
-
-@snap[south-west span-50]
+@snap[south-west span-20]
 ![](assets/img/UZ_l.png)
 @snapend
 
-@snap[south span-50]
+@snap[south span-20]
 ![](assets/img/UZ_m.png)
 @snapend
 
-@snap[south-east span-50]
+@snap[south-east span-20]
 ![](assets/img/UZ_r.png)
 @snapend
 

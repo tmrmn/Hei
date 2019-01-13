@@ -5,10 +5,8 @@
 *-Background Stories-*
 @snapped
 
----?image=assets/img/1.jpg&size=auto 100%&repeat=repeat-x
+---
 @title[Technology for Culture]
-
-@snap[midpoint span-100 bg-black]
 * BA Culture and Technology at the Technical University of Berlin
 
 * Project manager at a NPO in the field of Arts and Cultural Education in Berlin
@@ -16,7 +14,10 @@
   * [kubinaut.de](https://www.kubinaut.de/de)
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
-@snapped
+
+  @snap[midpoint]
+  ![](assets/img/1.png)
+  @snapped
 
 ---?image=assets/img/2.jpg&size=cover&opacity=20
 @title[How to study the Future?]

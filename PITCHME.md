@@ -2,11 +2,12 @@
 @snap[midpoint]
 @size[3.5em](Hei)
 <br>
-**--Background Stories--**
+*-Background Stories-*
 @snapped
 
 ---?image=assets/img/1.jpg&position=top&size=100% 20%
-### PAST
+
+snap[midpoint span-95]
 * BA Culture and Technology at the Technical University of Berlin
 
 * Project manager at a NPO in the field of Arts and Cultural Education in Berlin
@@ -14,6 +15,7 @@
   * [kubinaut.de](https://www.kubinaut.de/de)
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
+@snapped
 
 ---?image=assets/img/2.jpg&size=cover&opacity=20
 ### How to study the Future?
@@ -44,7 +46,7 @@
 
 ---?image=assets/img/4.jpg
 
-@snap[midpoint span-100 bg-white text-black]
+@snap[midpoint span-95 bg-white text-black]
 @color[skyblue](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
 

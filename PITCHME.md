@@ -50,6 +50,17 @@
 
 ---
 
+---
+
+@snap[midpoint span-100 bg-black]
+lf
+d
+fsd
+f
+sdf
+@snapped
+---
+
 @snap[midpoint span-100]
 @img[shadow](assets/img/a_Page_01.jpg)
 @snapend
@@ -79,6 +90,14 @@
 ---?image=assets/img/a_Page_13.jpg
 
 ---?image=assets/img/a_Page_14.jpg
+
+---?image=template/img/bg/black.jpg&position=center&size=100% 65% @title[Center Bar + Image Body]
+
+@snap[north span-100] @size[1.5em](Lorem Ipsum Dolor Sit Amet) @snapend
+
+@snap[midpoint span-80] DATAFLOW @snapend
+
+@snap[south-west template-note text-gray] Center bar with image body template. @snapend
 
 ---
 @snap[south-west span-55]

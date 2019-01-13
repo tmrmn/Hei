@@ -23,6 +23,17 @@
   ![](assets/img/l.png)
   @snapped
 
+  ---
+  @snap[south]
+  ![](assets/img/l.png)
+  @snapped
+
+  ---
+  @snap[south-west span-20]
+  ![](assets/img/berlin.png)
+  @snapped
+
+
 ---?image=assets/img/2.jpg&size=cover&opacity=20
 @title[How to study the Future?]
 

@@ -16,7 +16,7 @@
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
   @snap[south-west span-20]
-  ![](assets/img/berlin.png)
+  ![](assets/img/a.png)
   @snapped
 
   @snap[south]

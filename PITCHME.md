@@ -5,7 +5,7 @@
 *-Background Stories-*
 @snapped
 
----?image=assets/img/1.jpg&size=auto 60%&repeat=repeat-x
+---?image=assets/img/1.jpg&size=auto 100%&repeat=repeat-x
 @title[Technology for Culture]
 
 @snap[midpoint span-95 bg-lightgray]

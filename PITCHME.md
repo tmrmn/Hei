@@ -8,7 +8,7 @@
 ---?image=assets/img/1.jpg&position=top&ssize=auto 60%&repeat=repeat-x
 @title[Technology for Culture]
 
-@snap[midpoint span-95]
+@snap[midpoint span-95 bg-lightgray]
 * BA Culture and Technology at the Technical University of Berlin
 
 * Project manager at a NPO in the field of Arts and Cultural Education in Berlin

@@ -71,11 +71,6 @@ fsd
 f
 sdf
 @snapped
----
-
-@snap[midpoint span-100]
-@img[shadow](assets/img/a_Page_01.jpg)
-@snapend
 
 ---?image=assets/img/a.png
 

@@ -41,8 +41,8 @@
 
 ---?image=assets/img/4.jpg
 
-@snap[midpoint span-100]
-@box[bg-white text-black demo-box-pad](@color[cyan](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.)
+@snap[midpoint span-100 bg-white]
+@color[cyan](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
 
 ---?image=assets/img/4.jpg
@@ -90,14 +90,6 @@ sdf
 ---?image=assets/img/a_Page_13.jpg
 
 ---?image=assets/img/a_Page_14.jpg
-
----?image=template/img/bg/black.jpg&position=center&size=100% 65% @title[Center Bar + Image Body]
-
-@snap[north span-100] @size[1.5em](Lorem Ipsum Dolor Sit Amet) @snapend
-
-@snap[midpoint span-80] DATAFLOW @snapend
-
-@snap[south-west template-note text-gray] Center bar with image body template. @snapend
 
 ---
 @snap[south-west span-55]

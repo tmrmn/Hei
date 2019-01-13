@@ -5,7 +5,7 @@
 *-Background Stories-*
 @snapped
 
----
+---?color=ffffff
 @title[Technology for Culture]
 * BA Culture and Technology at the Technical University of Berlin
 
@@ -15,7 +15,7 @@
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
-  @snap[south span-100]
+  @snap[south0]
   ![](assets/img/1.png)
   @snapped
 

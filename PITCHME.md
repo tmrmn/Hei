@@ -1,6 +1,7 @@
 ---?image=assets/img/cover.jpg
 @snap[midpoint]
 @size[3.5em](Hei)
+<br>
 **--Background Stories--**
 @snapped
 

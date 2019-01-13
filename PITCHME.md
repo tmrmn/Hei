@@ -77,31 +77,31 @@ sdf
 @img[shadow](assets/img/a_Page_01.jpg)
 @snapend
 
----?image=assets/img/a_Page_02.jpg
+---?image=assets/img/a.png
 
----?image=assets/img/a_Page_03.jpg
+---?image=assets/img/b.png
 
----?image=assets/img/a_Page_04.jpg
+---?image=assets/img/c.png
 
----?image=assets/img/a_Page_05.jpg
+---?image=assets/img/c1.png
 
----?image=assets/img/a_Page_06.jpg
+---?image=assets/img/d.png
 
----?image=assets/img/a_Page_07.jpg
+---?image=assets/img/e.png
 
----?image=assets/img/a_Page_08.jpg
+---?image=assets/img/f.png
 
----?image=assets/img/a_Page_09.jpg
+---?image=assets/img/g.png
 
----?image=assets/img/a_Page_10.jpg
+---?image=assets/img/h.png
 
----?image=assets/img/a_Page_11.jpg
+---?image=assets/img/i.png
 
----?image=assets/img/a_Page_12.jpg
+---?image=assets/img/j.png
 
----?image=assets/img/a_Page_13.jpg
+---?image=assets/img/k.png
 
----?image=assets/img/a_Page_14.jpg
+---?image=assets/img/l.png
 
 ---
 @snap[south-west span-55]

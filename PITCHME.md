@@ -16,7 +16,7 @@
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
   @snap[south]
-  ![](assets/img/1.png)
+  ![](assets/img/l.png)
   @snapped
 
 ---?image=assets/img/2.jpg&size=cover&opacity=20

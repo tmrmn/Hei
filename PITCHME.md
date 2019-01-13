@@ -7,7 +7,7 @@
 
 ---?image=assets/img/1.jpg&position=top&size=100% 20%
 
-snap[midpoint span-95]
+@snap[midpoint span-95]
 * BA Culture and Technology at the Technical University of Berlin
 
 * Project manager at a NPO in the field of Arts and Cultural Education in Berlin

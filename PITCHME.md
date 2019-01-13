@@ -6,6 +6,7 @@
 @snapped
 
 ---?image=assets/img/1.jpg&position=top&size=100% 20%
+@title[Technology for Culture]
 
 @snap[midpoint span-95]
 * BA Culture and Technology at the Technical University of Berlin
@@ -18,7 +19,8 @@
 @snapped
 
 ---?image=assets/img/2.jpg&size=cover&opacity=20
-### How to study the Future?
+@title[How to study the Future?]
+
 * MA Future Studies at the Free University of Berlin
 * Agent-based Modeling
 * Semester in SF

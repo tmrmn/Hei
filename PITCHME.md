@@ -5,7 +5,7 @@
 *-Background Stories-*
 @snapped
 
----?color=gray
+---
 @title[Technology for Culture]
 * BA Culture and Technology at the Technical University of Berlin
 

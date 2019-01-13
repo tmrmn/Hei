@@ -1,6 +1,8 @@
 ---?image=assets/img/cover.jpg
-# Hei
-### - Background Stories -
+@snap[midpoint]
+@topic[Hei]
+**--Background Stories--**
+@snapped
 
 ---?image=assets/img/1.jpg&position=top&size=100% 20%
 ### PAST

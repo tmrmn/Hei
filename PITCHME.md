@@ -3,7 +3,7 @@
 @size[3.5em](Hei)
 <br>
 *-Background Stories-*
-@snapped
+@snapend
 
 ---?color=gray
 @snap[north span-100]
@@ -15,16 +15,16 @@
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
-@snapped
+@snapend
 
 @snap[south span-100]
 ![](assets/img/1.png)
-@snapped
+@snapend
 ---
 
 @snap[midpoint]
 ![](assets/img/berlin.png)
-@snapped
+@snapend
 
 
 ---?image=assets/img/2.jpg&size=cover&opacity=20

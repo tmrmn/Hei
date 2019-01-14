@@ -74,7 +74,7 @@
 @snapped
 
 ---?image=assets/img/4.jpg
-@snap[midpoint span-100 bg-gray text-white]
+@snap[midpoint span-100 bg-lightgray text-black]
 @color[#4badd1](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
 

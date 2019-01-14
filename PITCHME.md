@@ -64,7 +64,7 @@
 ![](assets/img/UZ_m.png)
 @snapend
 
-@snap[south-east span-25]
+@snap[south-east span-45]
 ![](assets/img/UZ_r.png)
 @snapend
 

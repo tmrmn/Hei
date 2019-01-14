@@ -6,7 +6,7 @@
 @snapped
 
 ---
-@title[Technology for Culture]
+
 * BA Culture and Technology at the Technical University of Berlin
 
 * Project manager at a NPO in the field of Arts and Cultural Education in Berlin
@@ -15,9 +15,7 @@
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
-  @snap[south-west span-20]
   ![](assets/img/1.png)
-  @snapped
 
 ---
   @snap[south-west span-20]

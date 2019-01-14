@@ -16,18 +16,8 @@
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
   @snap[south-west span-20]
-  ![](assets/img/a.png)
+  ![](assets/img/1.png)
   @snapped
-
-  @snap[south]
-  ![](assets/img/l.png)
-  @snapped
-
-  ---
-  @snap[south]
-  ![](assets/img/l.png)
-  @snapped
-
   ---
   @snap[south-west span-20]
   ![](assets/img/berlin.png)
@@ -60,7 +50,10 @@
 ![](assets/img/UZ_r.png)
 @snapend
 
-
+---
+@snap[midpoint span-95]
+![](assets/img/l.png)
+@snapped
 
 ---?image=assets/img/4.jpg
 
@@ -107,7 +100,6 @@ sdf
 
 ---?image=assets/img/k.png
 
----?image=assets/img/l.png
 
 ---
 @snap[south-west span-55]

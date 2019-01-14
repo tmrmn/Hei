@@ -34,8 +34,8 @@
 @ulend
 @snapend
 
-@snap[south-west]
-@fa[line-chart fa-2x]
+@snap[south-west snap-20]
+@fa[line-chart fa-3x]
 <br>
 @snapend
 

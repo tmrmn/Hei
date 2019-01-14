@@ -36,7 +36,7 @@
 
 @snap[south-west snap-20]
 @fa[line-chart fa-3x]
-@size[5em]( )
+@size[5em]( s)
 @snapend
 
 @snap[south]
@@ -52,7 +52,7 @@
 ---?color=skyblue
 @snap[north span-100]
 <br>
-@size[3em](@color[white](Institute for Urban Futures))
+@size[2.5em](@color[white](Institute for Urban Futures))
 @ul[](false)
 - Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
 - Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
@@ -76,7 +76,7 @@
 ![](assets/img/l.png)
 @snapped
 
----?image=assets/img/4.jpg
+---?color=skyblue
 
 @snap[midpoint span-95 bg-white text-black]
 @color[skyblue](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.

@@ -82,6 +82,11 @@
 @snapend
 
 ---?image=assets/img/4.jpg
+@snap[midpoint span-80]
+![](assets/img/b.png)
+@snapped
+
+---?image=assets/img/4.jpg
 ![Start the Video](https://player.vimeo.com/video/285110972)
 
 ---?color=white
@@ -89,10 +94,6 @@
 ![](assets/img/a.png)
 @snapped
 
----?color=white
-@snap[midpoint span-80]
-![](assets/img/b.png
-@snapped
 
 ---?color=white
 @snap[midpoint span-80]
@@ -110,12 +111,12 @@
 @snapped
 
 ---?color=white
-@snap[midpoint span-100]
+@snap[midpoint span-90]
 ![](assets/img/e.png)
 @snapped
 
 ---?color=white
-@snap[midpoint span-100]
+@snap[midpoint span-80]
 ![](assets/img/f.png)
 @snapped
 
@@ -138,15 +139,10 @@
 ![](assets/img/j.png)
 @snapped
 
----?color=white
-@snap[midpoint span-100]
-![](assets/img/k.png)
-@snapped
-
 ---
 ### Workshop
 twitter.com/Urbane_Zukunft/status/1083029514744143872
-@fa[twitter] @Urbane_Zukunft
+@fa[twitter color-skyblue] @Urbane_Zukunft
 
 ---
 @snap[south-west span-55]
@@ -165,6 +161,7 @@ twitter.com/Urbane_Zukunft/status/1083029514744143872
 ![](assets/img/WS1.jpg)
 @snapend
 
-
----?color=#E58537
-@title[END :-)]
+---
+@snap[midpoint span-100]
+![](assets/img/k.png)
+@snapped

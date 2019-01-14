@@ -14,7 +14,7 @@
 @snap[north span-100]
 <br>
 @ul[](false)
-- BA Culture and Technology at the Technical University of Berlin
+- @color[#4badd1](BA Culture and Technology) at the @color[#4badd1](Technical University of Berlin)
 - Project manager at a NPO in the field of Arts and Cultural Education in Berlin
   - [kubinaut.de](https://www.kubinaut.de/de)
   - [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
@@ -27,10 +27,10 @@
 @snap[north span-100]
 <br>
 @ul[](false)
-- MA Future Studies at the Free University of Berlin
+- @color[#4badd1](MA Future Studies) at the @color[#4badd1](Free University of Berlin)
   - Agent-based Modeling
   - Research semester in San Francisco
-  - Thesis: conceptualization of a simulation for estimating attitude change processes in Co-Living environments
+  - Thesis: conceptualization of a simulation for estimating attitude change processes in co-living environments
 @ulend
 @snapend
 
@@ -74,7 +74,7 @@
 @snapped
 
 ---?image=assets/img/4.jpg
-@snap[midpoint span-100 bg-white text-black]
+@snap[midpoint span-100 bg-gray text-black]
 @color[#4badd1](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
 

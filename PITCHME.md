@@ -18,7 +18,8 @@
   @snap[south-west span-20]
   ![](assets/img/1.png)
   @snapped
-  ---
+
+---
   @snap[south-west span-20]
   ![](assets/img/berlin.png)
   @snapped

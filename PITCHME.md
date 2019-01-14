@@ -7,11 +7,13 @@
 
 ---?color=gray
 @snap[north span-100]
+@ul[](false)
 - BA Culture and Technology at the Technical University of Berlin
 - Project manager at a NPO in the field of Arts and Cultural Education in Berlin
   - [kubinaut.de](https://www.kubinaut.de/de)
   - [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   - [infonetkalender.de](http://www.infonetkalender.de/)
+@ulend
 @snapend
 
 @snap[south span-100]

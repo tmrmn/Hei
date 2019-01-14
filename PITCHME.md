@@ -49,10 +49,10 @@
 @size[4em](..)
 @snapend
 
----?color=lightblue
+---?color=#4badd1
 @snap[north span-100]
 <br>
-@size[2em](@color[white](Institute for Urban Futures))
+@size[1.7em](@color[white](Institute for Urban Futures))
 @ul[](false)
 - Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
 - Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
@@ -71,77 +71,75 @@
 ![](assets/img/UZ_r.png)
 @snapend
 
----?color=assets/img/4.jpg
+---?image=assets/img/4.jpg
 @snap[midpoint span-100]
 ![](assets/img/l.png)
 @snapped
 
----?color=assets/img/4.jpg
-
+---?image=assets/img/4.jpg
 @snap[midpoint span-100 bg-white text-black]
-@color[skyblue](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
+@color[#4badd1](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
 
 ---?image=assets/img/4.jpg
 ![Start the Video](https://player.vimeo.com/video/285110972)
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/a.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/b.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/c.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/c1.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/d.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/e.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/f.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint]
 ![](assets/img/g.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[north-west span-75]
 ![](assets/img/h.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+@snap[south-east span-75]
 ![](assets/img/i.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/j.png)
 @snapped
 
----?color=lightblue
-@snap[midpoint span-100 bg-black]
+---?color=white
+@snap[midpoint span-100]
 ![](assets/img/k.png)
 @snapped
 

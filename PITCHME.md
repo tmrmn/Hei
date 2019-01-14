@@ -14,7 +14,7 @@
   * [kubinaut.de](https://www.kubinaut.de/de)
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
-@snaspped
+@snapped
 
 @snap[south span-100]
 ![](assets/img/1.png)

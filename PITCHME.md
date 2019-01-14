@@ -35,18 +35,15 @@
 @snapend
 
 @snap[south-west snap-20]
-@fa[line-chart fa-3x]
-@size[4em](..)
+![](assets/img/m1.png)
 @snapend
 
 @snap[south]
-@fa[lightbulb-o fa-3x]
-@size[4em](..)
+![](assets/img/m2.png)
 @snapend
 
 @snap[south-east]
-@fa[rocket fa-3x]
-@size[4em](..)
+![](assets/img/m3.png)
 @snapend
 
 ---?color=#4badd1

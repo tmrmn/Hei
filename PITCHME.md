@@ -29,8 +29,8 @@
 @ul[](false)
 - MA Future Studies at the Free University of Berlin
   - Agent-based Modeling
-  - Semester in SF
-  - Thesis: conceptualized a simulation for estimating attitude change processes in Co-Living settings
+  - Research semester in San Francisco
+  - Thesis: conceptualization of a simulation for estimating attitude change processes in Co-Living environments
 @ulend
 @snapend
 

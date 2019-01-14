@@ -7,13 +7,13 @@
 
 ---?color=gray
 
-@snap[south span-100]
+@snap[south-west span-100]
 ![](assets/img/1.png)
 @snapend
 
 @snap[north span-100]
 <br>
-@ul[-](false)
+@ul[](false)
 - BA Culture and Technology at the Technical University of Berlin
 - Project manager at a NPO in the field of Arts and Cultural Education in Berlin
   - [kubinaut.de](https://www.kubinaut.de/de)
@@ -24,12 +24,12 @@
 
 ---
 @title[How to study the Future?]
-
-* MA Future Studies at the Free University of Berlin
-* Agent-based Modeling
-* Semester in SF
-* Thesis: conceptualized a simulation for estimating attitude change processes in teams over time
-
+@ul[]()
+- MA Future Studies at the Free University of Berlin
+  - Agent-based Modeling
+  - Semester in SF
+  - Thesis: conceptualized a simulation for estimating attitude change processes in teams over time
+@ulend
 ---
 ### Institute for Urban Futures
 * Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam

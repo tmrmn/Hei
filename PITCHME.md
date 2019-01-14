@@ -16,11 +16,9 @@
 @ul[](false)
 - @color[#4badd1](BA Culture and Technology) at the @color[#4badd1](Technical University of Berlin)
 - Project manager at a NPO in the field of Arts and Cultural Education in Berlin
-@color[black](
   - [kubinaut.de](https://www.kubinaut.de/de)
-  - [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
-  - [infonetkalender.de](http://www.infonetkalender.de/)
-  )
+  - FSJ-Kultur
+  - infonetkalender.de]
 @ulend
 @snapend
 
@@ -49,7 +47,7 @@
 @snapend
 
 ---?color=#4badd1
-@snap[north span-100]
+@snap[north span-100 text-white]
 <br>
 @size[1.7em](@color[white](Institute for Urban Futures))
 @ul[](false)
@@ -76,7 +74,7 @@
 @snapped
 
 ---?image=assets/img/4.jpg
-@snap[midpoint span-100 bg-#4badd1 text-white]
+@snap[midpoint span-100 bg-gray text-white]
 @color[#4badd1](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
 

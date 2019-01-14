@@ -6,7 +6,7 @@
 @snapend
 
 ---?color=gray
-
+@title[Technology for culture?]
 @snap[south-west span-100]
 ![](assets/img/1.png)
 @snapend
@@ -24,26 +24,44 @@
 
 ---
 @title[How to study the Future?]
-@ul[]()
+@snap[nord span-100]
+@ul[](false)
 - MA Future Studies at the Free University of Berlin
   - Agent-based Modeling
   - Semester in SF
-  - Thesis: conceptualized a simulation for estimating attitude change processes in teams over time
+  - Thesis: conceptualized a simulation for estimating attitude change processes in Co-Living settings
 @ulend
+@snapend
+
+@snap[south-west]
+
+@fa[line-chart fa-3x]
+@snapend
+
+@snap[south]
+@fa[lightbulb-o fa-3x]
+@snapend
+
+@snap[south-east]
+@fa[rocket fa-3x]
+@snapend
+
 ---
-### Institute for Urban Futures
+@snap[north span-20]
+@size[](Institute for Urban Futures)
 * Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
 * Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
+@snapend
 
-@snap[north-west span-20]
+@snap[south-west span-20]
 ![](assets/img/UZ_l.png)
 @snapend
 
-@snap[north span-20]
+@snap[south span-20]
 ![](assets/img/UZ_m.png)
 @snapend
 
-@snap[north-east span-20]
+@snap[south-east span-20]
 ![](assets/img/UZ_r.png)
 @snapend
 

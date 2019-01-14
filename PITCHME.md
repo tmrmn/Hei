@@ -15,7 +15,7 @@
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
-  ![](assets/img/one.jpg)
+  ![](assets/img/UZ_l.png)
 
 ---
   @snap[midpoint]

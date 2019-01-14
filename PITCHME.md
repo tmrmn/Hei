@@ -22,15 +22,7 @@
 @ulend
 @snapend
 
-
 ---
-
-@snap[midpoint]
-![](assets/img/berlin.png)
-@snapend
-
-
----?image=assets/img/2.jpg&size=cover&opacity=20
 @title[How to study the Future?]
 
 * MA Future Studies at the Free University of Berlin

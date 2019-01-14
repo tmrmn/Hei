@@ -36,16 +36,16 @@
 
 @snap[south-west snap-20]
 @fa[line-chart fa-3x]
-@size[5em]( s)
+@size[4em]( )
 @snapend
 
 @snap[south]
-@fa[lightbulb-o fa-2x]
-<br>
+@fa[lightbulb-o fa-3x]
+@size[4em](...)
 @snapend
 
 @snap[south-east]
-@fa[rocket fa-2x]
+@fa[rocket fa-3x]
 <br>
 @snapend
 

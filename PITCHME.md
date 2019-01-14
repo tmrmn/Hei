@@ -15,12 +15,12 @@
   * [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   * [infonetkalender.de](http://www.infonetkalender.de/)
 
-  ![](assets/img/UZ_l.png)
+![](assets/img/1.png)
 
 ---
-  @snap[midpoint]
-  ![](assets/img/berlin.png)
-  @snapped
+@snap[midpoint]
+![](assets/img/berlin.png)
+@snapped
 
 
 ---?image=assets/img/2.jpg&size=cover&opacity=20

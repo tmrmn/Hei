@@ -24,7 +24,8 @@
 
 ---
 @title[How to study the Future?]
-@snap[nord span-100]
+@snap[north span-100]
+<br>
 @ul[](false)
 - MA Future Studies at the Free University of Berlin
   - Agent-based Modeling
@@ -34,23 +35,24 @@
 @snapend
 
 @snap[south-west]
-
-@fa[line-chart fa-3x]
+@fa[line-chart fa-2x]
 @snapend
 
 @snap[south]
-@fa[lightbulb-o fa-3x]
+@fa[lightbulb-o fa-2x]
 @snapend
 
 @snap[south-east]
-@fa[rocket fa-3x]
+@fa[rocket fa-2x]
 @snapend
 
 ---
 @snap[north span-20]
-@size[](Institute for Urban Futures)
-* Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
-* Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
+@size[2.3 em](Institute for Urban Futures)
+@ul
+- Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
+- Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
+@ulend
 @snapend
 
 @snap[south-west span-20]

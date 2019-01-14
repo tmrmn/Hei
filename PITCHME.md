@@ -52,7 +52,7 @@
 ---?color=skyblue
 @snap[north span-100]
 <br>
-@size[2.5em](@color[white](Institute for Urban Futures))
+@size[2em](@color[white](Institute for Urban Futures))
 @ul[](false)
 - Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
 - Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin

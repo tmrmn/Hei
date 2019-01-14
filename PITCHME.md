@@ -5,7 +5,7 @@
 *-Background Stories-*
 @snapend
 
----?color=gray
+---?color=lightgray
 @title[Technology for culture?]
 @snap[south-west span-100]
 ![](assets/img/1.png)
@@ -16,13 +16,15 @@
 @ul[](false)
 - @color[#4badd1](BA Culture and Technology) at the @color[#4badd1](Technical University of Berlin)
 - Project manager at a NPO in the field of Arts and Cultural Education in Berlin
-  - [@color[black](kubinaut.de)](https://www.kubinaut.de/de)
+@color[black](
+  - [kubinaut.de](https://www.kubinaut.de/de)
   - [FSJ-Kultur](http://lkj-berlin.de/fsjkultur/)
   - [infonetkalender.de](http://www.infonetkalender.de/)
+  )
 @ulend
 @snapend
 
----?color=gray
+---?color=lightgray
 @title[How to study the Future?]
 @snap[north span-100]
 <br>
@@ -74,7 +76,7 @@
 @snapped
 
 ---?image=assets/img/4.jpg
-@snap[midpoint span-100 bg-gray text-black]
+@snap[midpoint span-100 bg-lightgray text-black]
 @color[#4badd1](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
 

@@ -50,7 +50,7 @@
 @snapend
 
 ---?color=skyblue
-@snap[north span-20]
+@snap[north span-100]
 @size[2.3 em](Institute for Urban Futures)
 @ul
 - Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam

@@ -6,6 +6,11 @@
 @snapend
 
 ---?color=gray
+
+@snap[south span-100]
+![](assets/img/1.png)
+@snapend
+
 @snap[north span-100]
 @ul[](false)
 - BA Culture and Technology at the Technical University of Berlin
@@ -16,9 +21,7 @@
 @ulend
 @snapend
 
-@snap[south span-100]
-![](assets/img/1.png)
-@snapend
+
 ---
 
 @snap[midpoint]

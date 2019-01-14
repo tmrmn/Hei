@@ -49,7 +49,7 @@
 @size[4em](..)
 @snapend
 
----?color=skyblue
+---?color=lightblue
 @snap[north span-100]
 <br>
 @size[2em](@color[white](Institute for Urban Futures))
@@ -59,68 +59,97 @@
 @ulend
 @snapend
 
-@snap[south-west span-20]
+@snap[south-west span-25]
 ![](assets/img/UZ_l.png)
 @snapend
 
-@snap[south span-20]
+@snap[south span-25]
 ![](assets/img/UZ_m.png)
 @snapend
 
-@snap[south-east span-20]
+@snap[south-east span-25]
 ![](assets/img/UZ_r.png)
 @snapend
 
----?color=skyblue
-@snap[midpoint span-95]
+---?color=assets/img/4.jpg
+@snap[midpoint span-100]
 ![](assets/img/l.png)
 @snapped
 
----?color=skyblue
+---?color=assets/img/4.jpg
 
-@snap[midpoint span-95 bg-white text-black]
+@snap[midpoint span-100 bg-white text-black]
 @color[skyblue](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
 
 ---?image=assets/img/4.jpg
 ![Start the Video](https://player.vimeo.com/video/285110972)
 
----
-
----
-
+---?color=lightblue
 @snap[midpoint span-100 bg-black]
-lf
-d
-fsd
-f
-sdf
+![](assets/img/a.png)
 @snapped
 
----?image=assets/img/a.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/b.png)
+@snapped
 
----?image=assets/img/b.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/c.png)
+@snapped
 
----?image=assets/img/c.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/c1.png)
+@snapped
 
----?image=assets/img/c1.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/d.png)
+@snapped
 
----?image=assets/img/d.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/e.png)
+@snapped
 
----?image=assets/img/e.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/f.png)
+@snapped
 
----?image=assets/img/f.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/g.png)
+@snapped
 
----?image=assets/img/g.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/h.png)
+@snapped
 
----?image=assets/img/h.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/i.png)
+@snapped
 
----?image=assets/img/i.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/j.png)
+@snapped
 
----?image=assets/img/j.png
+---?color=lightblue
+@snap[midpoint span-100 bg-black]
+![](assets/img/k.png)
+@snapped
 
----?image=assets/img/k.png
 
+---
+### Workshop
+twitter.com/Urbane_Zukunft/status/1083029514744143872
+@fa[twitter] @Urbane_Zukunft
 
 ---
 @snap[south-west span-55]

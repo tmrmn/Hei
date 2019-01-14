@@ -36,7 +36,7 @@
 
 @snap[south-west snap-20]
 @fa[line-chart fa-3x]
-<br>
+@size[5em]( )
 @snapend
 
 @snap[south]
@@ -51,7 +51,8 @@
 
 ---?color=skyblue
 @snap[north span-100]
-@size[2.3 em](@color[white](Institute for Urban Futures))
+<br>
+@size[3em](@color[white](Institute for Urban Futures))
 @ul[](false)
 - Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
 - Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin

@@ -47,7 +47,7 @@
 @snapend
 
 ---?color=#4badd1
-@snap[north span-100 text-white]
+@snap[north span-100]
 <br>
 @size[1.7em](@color[white](Institute for Urban Futures))
 @ul[](false)
@@ -73,7 +73,7 @@
 ![](assets/img/l.png)
 @snapped
 
----?image=assets/img/4.jpg&opacity=20
+---?image=assets/img/4.jpg&opacity=15
 @snap[midpoint span-100 text-white]
 @color[#4badd1](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend

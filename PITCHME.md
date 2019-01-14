@@ -5,7 +5,7 @@
 *-Background Stories-*
 @snapped
 
----
+---?color=white
 
 * BA Culture and Technology at the Technical University of Berlin
 

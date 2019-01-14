@@ -22,7 +22,7 @@
 @ulend
 @snapend
 
----
+---?color=gray
 @title[How to study the Future?]
 @snap[north span-100]
 <br>
@@ -36,17 +36,20 @@
 
 @snap[south-west]
 @fa[line-chart fa-2x]
+<br>
 @snapend
 
 @snap[south]
 @fa[lightbulb-o fa-2x]
+<br>
 @snapend
 
 @snap[south-east]
 @fa[rocket fa-2x]
+<br>
 @snapend
 
----
+---?color=skyblue
 @snap[north span-20]
 @size[2.3 em](Institute for Urban Futures)
 @ul

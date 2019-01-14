@@ -12,7 +12,7 @@
 @snapend
 
 @snap[north span-100]
-@ul[](false)
+@ul[-](false)
 - BA Culture and Technology at the Technical University of Berlin
 - Project manager at a NPO in the field of Arts and Cultural Education in Berlin
   - [kubinaut.de](https://www.kubinaut.de/de)

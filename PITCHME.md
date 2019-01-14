@@ -85,27 +85,27 @@
 ![Start the Video](https://player.vimeo.com/video/285110972)
 
 ---?color=white
-@snap[midpoint span-100]
+@snap[midpoint span-80]
 ![](assets/img/a.png)
 @snapped
 
 ---?color=white
-@snap[midpoint span-100]
-![](assets/img/b.png)
+@snap[midpoint span-80]
+![](assets/img/b.png
 @snapped
 
 ---?color=white
-@snap[midpoint span-100]
+@snap[midpoint span-80]
 ![](assets/img/c.png)
 @snapped
 
 ---?color=white
-@snap[midpoint span-100]
+@snap[midpoint span-90]
 ![](assets/img/c1.png)
 @snapped
 
 ---?color=white
-@snap[midpoint span-100]
+@snap[midpoint span-80]
 ![](assets/img/d.png)
 @snapped
 
@@ -120,7 +120,7 @@
 @snapped
 
 ---?color=white
-@snap[midpoint]
+@snap[midpoint span-90]
 ![](assets/img/g.png)
 @snapped
 

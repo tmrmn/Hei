@@ -71,7 +71,7 @@
 ![](assets/img/UZ_r.png)
 @snapend
 
----
+---?color=skyblue
 @snap[midpoint span-95]
 ![](assets/img/l.png)
 @snapped

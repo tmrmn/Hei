@@ -96,10 +96,19 @@
 ![](assets/img/c.png)
 @snapped
 
+@snap[south-west]
+model concept eberswalde residential mobility
+@snaped
+
 ---?color=white
 @snap[midpoint span-90]
 ![](assets/img/c1.png)
 @snapped
+
+@snap[south-west]
+open geo data & data provided by the city
+@snaped
+
 
 ---?color=white
 @snap[midpoint span-80]

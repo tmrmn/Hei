@@ -34,15 +34,15 @@
 @ulend
 @snapend
 
-@snap[south-west span-33]
+@snap[south-west span-30]
 ![](assets/img/m1.png)
 @snapend
 
-@snap[south span-33]
+@snap[south span-30]
 ![](assets/img/m2.png)
 @snapend
 
-@snap[south-east span-33]
+@snap[south-east span-30]
 ![](assets/img/m3.png)
 @snapend
 

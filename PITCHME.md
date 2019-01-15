@@ -42,7 +42,7 @@
 ![](assets/img/m2.png)
 @snapend
 
-@snap[south-east span-33]
+@snap[south-east span-30]
 ![](assets/img/m3.png)
 @snapend
 

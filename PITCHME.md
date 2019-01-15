@@ -91,7 +91,6 @@
 ![](assets/img/a.png)
 @snapped
 
-
 ---?color=white
 @snap[midpoint span-80]
 ![](assets/img/c.png)
@@ -158,7 +157,11 @@ twitter.com/Urbane_Zukunft/status/1083029514744143872
 ![](assets/img/WS1.jpg)
 @snapend
 
----
-@snap[midpoint span-100]
-![](assets/img/k.png)
-@snapped
+---?color=darkred
+### Serious Games as a Research Device for Sustainable Resource Management
+#### A multi-methodological approach to build a framework for utilizing stakeholder involvement in decision-making processes
+
+---?color=darkred
+@snap[north-east span-100]
+![](assets/img/WS1.jpg)
+@snapend

@@ -71,7 +71,7 @@
 ---?image=assets/img/4.jpg
 @snap[midpoint span-100]
 ![](assets/img/l.png)
-@snapped
+@snapend
 
 ---?image=assets/img/4.jpg
 @snap[midpoint span-95 bg-white text-black]
@@ -81,7 +81,7 @@
 ---?image=assets/img/4.jpg
 @snap[midpoint span-80]
 ![](assets/img/b.png)
-@snapped
+@snapend
 
 ---?image=assets/img/4.jpg
 ![Start the Video](https://player.vimeo.com/video/285110972)
@@ -89,60 +89,60 @@
 ---?color=white
 @snap[midpoint span-80]
 ![](assets/img/a.png)
-@snapped
+@snapend
 
 ---?color=white
 @snap[midpoint span-80]
 ![](assets/img/c.png)
-@snapped
+@snapend
 
 @snap[south-west]
 model concept eberswalde residential mobility
-@snaped
+@snapend
 
 ---?color=white
 @snap[midpoint span-90]
 ![](assets/img/c1.png)
-@snapped
+@snapend
 
 @snap[south-west]
 open geo data & data provided by the city
-@snaped
+@snapend
 
 
 ---?color=white
 @snap[midpoint span-80]
 ![](assets/img/d.png)
-@snapped
+@snapend
 
 ---?color=white
 @snap[midpoint span-90]
 ![](assets/img/e.png)
-@snapped
+@snapend
 
 ---?color=white
 @snap[midpoint span-80]
 ![](assets/img/f.png)
-@snapped
+@snapend
 
 ---?color=white
 @snap[midpoint span-90]
 ![](assets/img/g.png)
-@snapped
+@snapend
 
 ---?color=white
 @snap[north-west span-75]
 ![](assets/img/h.png)
-@snapped
+@snapend
 
 @snap[south-east span-75]
 ![](assets/img/i.png)
-@snapped
+@snapend
 
 ---?color=white
 @snap[midpoint span-100]
 ![](assets/img/j.png)
-@snapped
+@snapend
 
 ---
 ### Workshop

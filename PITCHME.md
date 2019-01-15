@@ -34,16 +34,16 @@
 @ulend
 @snapend
 
+@snap[south-east span-30]
+![](assets/img/m3.png)
+@snapend
+
 @snap[south-west span-30]
 ![](assets/img/m1.png)
 @snapend
 
 @snap[south span-30]
 ![](assets/img/m2.png)
-@snapend
-
-@snap[south-east span-30]
-![](assets/img/m3.png)
 @snapend
 
 ---?color=#4badd1

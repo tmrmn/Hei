@@ -163,5 +163,5 @@ twitter.com/Urbane_Zukunft/status/1083029514744143872
 
 ---?color=darkred
 @snap[north-east span-100]
-![](assets/img/WS1.jpg)
+![](assets/img/circle.jpg)
 @snapend

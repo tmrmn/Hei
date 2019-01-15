@@ -15,7 +15,7 @@
 <br>
 @ul[](false)
 - @color[#4badd1](BA Culture and Technology) at the @color[#4badd1](Technical University of Berlin)
-- Project manager at a NPO in the field of Arts and Cultural Education in Berlin
+- Project manager at a NGO in the field of Arts and Cultural Education in Berlin
   - [kubinaut.de](https://www.kubinaut.de/de)
   - FSJ-Kultur
   - infonetkalender.de]

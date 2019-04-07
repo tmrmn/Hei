@@ -31,7 +31,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Timo Szczepanska - BRIDGE Jan/2019- tsz000@uit.no"
+footnote : "Timo Szczepanska - tsz000@uit.no"
 
 #
 # Published Setting
@@ -43,6 +43,6 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "Intro for Bridge"
-description : "15 min of me"
+title : "Workshop Leiden"
+description : "5 min"
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png

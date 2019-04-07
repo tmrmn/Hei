@@ -3,32 +3,15 @@
 @size[2.0 em](Timo Szczepanska)
 <br>
 @size[2.0em](UiT - Arctic University of Norway)
-<br>
-@size[2.5em](Serious Games as a Research Device for Sustainable Recource Management)
 @snapend
 
----?color=lightgray
-@title[How to study the Future?]
-@snap[north span-100]
-<br>
-@ul[](false)
-- @color[#4badd1](MA Future Studies) at the @color[#4badd1](Free University of Berlin)
-  - Agent-based Modeling
-  - Research semester in San Francisco
-  - Thesis: conceptualization of a simulation for estimating attitude change processes in co-living environments
-@ulend
-@snapend
+---?color=darkred
+#### Serious Games as a Research Device for Sustainable Resource Management
+A multi-methodological approach to build a framework for utilizing stakeholder involvement in decision-making processes
 
-@snap[south-east span-30]
-![](assets/img/m3.png)
-@snapend
-
-@snap[south-west span-30]
-![](assets/img/m1.png)
-@snapend
-
-@snap[south span-30]
-![](assets/img/m2.png)
+---?color=#4badd1
+@snap[north-east span-100]
+![](assets/img/circle.jpg)
 @snapend
 
 ---?color=#4badd1
@@ -53,30 +36,6 @@
 ![](assets/img/UZ_r.png)
 @snapend
 
----?image=assets/img/4.jpg
-@snap[midpoint span-100]
-![](assets/img/l.png)
-@snapend
-
-/*
----?image=assets/img/4.jpg
-@snap[midpoint span-95 bg-white text-black]
-@color[#4badd1](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
-@snapend
-*/
----?image=assets/img/4.jpg
-@snap[midpoint span-80]
-![](assets/img/b.png)
-@snapend
-
----?image=assets/img/4.jpg
-![Start the Video](https://player.vimeo.com/video/285110972)
-
----?color=white
-@snap[midpoint span-80]
-![](assets/img/a.png)
-@snapend
-
 ---?color=white
 @snap[midpoint span-80]
 ![](assets/img/c.png)
@@ -96,45 +55,6 @@ open geo data & data provided by the city
 @snapend
 
 
----?color=white
-@snap[midpoint span-80]
-![](assets/img/d.png)
-@snapend
-
----?color=white
-@snap[midpoint span-90]
-![](assets/img/e.png)
-@snapend
-
----?color=white
-@snap[midpoint span-80]
-![](assets/img/f.png)
-@snapend
-
----?color=white
-@snap[midpoint span-90]
-![](assets/img/g.png)
-@snapend
-
----?color=white
-@snap[north-west span-75]
-![](assets/img/h.png)
-@snapend
-
-@snap[south-east span-75]
-![](assets/img/i.png)
-@snapend
-
----?color=white
-@snap[midpoint span-100]
-![](assets/img/j.png)
-@snapend
-
----
-### Workshop
-twitter.com/Urbane_Zukunft/status/1083029514744143872
-@fa[twitter color-skyblue] @Urbane_Zukunft
-
 ---
 @snap[south-west span-55]
 ![](assets/img/WS3.jpg)
@@ -150,13 +70,4 @@ twitter.com/Urbane_Zukunft/status/1083029514744143872
 
 @snap[north-east span-60]
 ![](assets/img/WS1.jpg)
-@snapend
-
----?color=darkred
-#### Serious Games as a Research Device for Sustainable Resource Management
-A multi-methodological approach to build a framework for utilizing stakeholder involvement in decision-making processes
-
----?color=darkred
-@snap[north-east span-100]
-![](assets/img/circle.jpg)
 @snapend

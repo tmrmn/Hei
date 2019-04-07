@@ -1,7 +1,7 @@
 ---?image=assets/img/cover.jpg
 @snap[west]
 <br>
- 
+
 <br>
 @size[2.0 em](Timo Szczepanska)<br>
 @size[2.0 em](UiT - Arctic University of Norway)<br>
@@ -41,8 +41,8 @@
 
 @snap[west span-60]
 
-@size[1.5 em](1. How to set up experimental settings and capture interactions using serious games?)<br>
-@size[1.0 em](2. Develop a methodological approach to use serious games to inform social simulations)
+1. How to set up experimental settings and capture interactions using serious games?
+2. Develop a methodological approach to use serious games to inform social simulations
 
 
 @snapend

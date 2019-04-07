@@ -1,36 +1,15 @@
 ---?image=assets/img/cover.jpg
-@snap[left]
+@snap[south-west]
 @size[2.0 em](Timo Szczepanska)
-<br>
-@size[2.0em](UiT - Arctic University of Norway)
+@size[2.0 em](UiT - Arctic University of Norway)
+@size[2.0 em](Faculty of Biosciences, Fisheries and Economics
 @snapend
 
 ---?color=#4badd1
 #### Serious Games as a Research Device for Sustainable Resource Management
-A multi-methodological approach to build a framework for utilizing stakeholder involvement in decision-making processes
-
-
----?color=#4badd1
-@snap[north span-100]
-<br>
-@size[1.7em](@color[white](Institute for Urban Futures))
-@ul[](false)
-- Research associate and coordinator for the EU-Project PaSyMo at the University of Applied Sciences of Potsdam
-- Teaching classes on ABM and complex adaptive systems at FH-Potsdam and FU-Berlin
-@ulend
-@snapend
-
-@snap[south-west span-25]
-![](assets/img/UZ_l.png)
-@snapend
-
-@snap[south span-25]
-![](assets/img/UZ_m.png)
-@snapend
-
-@snap[south-east span-45]
-![](assets/img/UZ_r.png)
-@snapend
+1. What can agent-based modeling provide for understanding complex adaptive systems by integrating the multiple perspective of stakeholders in the field of Fisheries Management?
+- overview of existing participatory modeling processes
+- identify components of a framework to construct agent-based model that integrates transdisciplinary knowledge
 
 ---
 @snap[south-west span-55]
@@ -50,6 +29,16 @@ A multi-methodological approach to build a framework for utilizing stakeholder i
 @snapend
 
 ---?color=white
-@snap[north-east span-100]
+@snap[midpoint span-90]
+![](assets/img/g.png)
+@snapend
+
+---?color=white
+#### Serious Games as a Research Device
+@snap[east]
 ![](assets/img/circle.jpg)
+@snapend
+@snap[west]
+1. How to set up experimental settings and capture interactions using serious games?
+2. Develop a methodological approach to use serious games to inform social simulations.
 @snapend

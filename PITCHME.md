@@ -9,10 +9,6 @@
 #### Serious Games as a Research Device for Sustainable Resource Management
 A multi-methodological approach to build a framework for utilizing stakeholder involvement in decision-making processes
 
----?color=white
-@snap[north-east span-100]
-![](assets/img/circle.jpg)
-@snapend
 
 ---?color=#4badd1
 @snap[north span-100]
@@ -51,4 +47,9 @@ A multi-methodological approach to build a framework for utilizing stakeholder i
 
 @snap[north-east span-60]
 ![](assets/img/WS1.jpg)
+@snapend
+
+---?color=white
+@snap[north-east span-100]
+![](assets/img/circle.jpg)
 @snapend

@@ -1,8 +1,8 @@
 ---?image=assets/img/cover.jpg
 @snap[south-west]
-@size[2.5 em](Timo Szczepanska)<br>
-@size[2.5 em](UiT - Arctic University of Norway)<br>
-@size[2.5 em](Faculty of Biosciences, Fisheries and Economics)
+@size[2.9 em](Timo Szczepanska)<br>
+@size[2.9 em](UiT - Arctic University of Norway)<br>
+@size[2.9 em](Faculty of Biosciences, Fisheries and Economics)
 @snapend
 
 ---?color=white

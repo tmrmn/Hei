@@ -33,6 +33,10 @@ What can agent-based modeling provide for understanding complex adaptive systems
 @snapend
 
 ---?color=white
+@snap[north]
+### Serious Games as a Research Device
+@snappes
+
 @snap[east span-40]
 ![](assets/img/circle.jpg)
 @snapend

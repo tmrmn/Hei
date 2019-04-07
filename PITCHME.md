@@ -9,7 +9,7 @@
 #### Serious Games as a Research Device for Sustainable Resource Management
 1. What can agent-based modeling provide for understanding complex adaptive systems by integrating the multiple perspective of stakeholders in the field of Fisheries Management?
 - overview of existing participatory modeling processes
-- identify components of a framework to construct agent-based model that integrates transdisciplinary knowledge
+- identify components/framework to construct abm that can integrates transdisciplinary knowledge
 
 ---
 @snap[south-west span-55]

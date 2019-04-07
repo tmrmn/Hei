@@ -1,26 +1,10 @@
 ---?image=assets/img/cover.jpg
 @snap[left]
 @size[2.0 em](Timo Szczepanska)
-@size[2.5em](UiT - Arctic University of Norway)
 <br>
-@size[2.5em](Serious Games )
-@snapend
-
----?color=lightgray
-@title[Technology for culture?]
-@snap[south-west span-100]
-![](assets/img/1.png)
-@snapend
-
-@snap[north span-100]
+@size[2.0em](UiT - Arctic University of Norway)
 <br>
-@ul[](false)
-- @color[#4badd1](BA Culture and Technology) at the @color[#4badd1](Technical University of Berlin)
-- Project manager at a NGO in the field of Arts and Cultural Education in Berlin
-  - [kubinaut.de](https://www.kubinaut.de/de)
-  - FSJ-Kultur
-  - infonetkalender.de]
-@ulend
+@size[2.5em](Serious Games as a Research Device for Sustainable Recource Management)
 @snapend
 
 ---?color=lightgray
@@ -74,11 +58,12 @@
 ![](assets/img/l.png)
 @snapend
 
+/*
 ---?image=assets/img/4.jpg
 @snap[midpoint span-95 bg-white text-black]
 @color[#4badd1](Participatory Modeling) aims at facilitating on-side collaborative learning processes by which participants’ implicit mental models of a complex system like a city are made explicit and further integrated in codesigned computer simulations. Ideally, these simulations represent a base of knowledge, assumptions and perceptions that allow participants to assess and discuss potential impacts of envisaged planning actions through visualization.
 @snapend
-
+*/
 ---?image=assets/img/4.jpg
 @snap[midpoint span-80]
 ![](assets/img/b.png)

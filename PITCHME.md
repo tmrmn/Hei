@@ -5,11 +5,11 @@
 @size[2.0em](UiT - Arctic University of Norway)
 @snapend
 
----?color=darkred
+---?color=#4badd1
 #### Serious Games as a Research Device for Sustainable Resource Management
 A multi-methodological approach to build a framework for utilizing stakeholder involvement in decision-making processes
 
----?color=#4badd1
+---?color=white
 @snap[north-east span-100]
 ![](assets/img/circle.jpg)
 @snapend
@@ -35,25 +35,6 @@ A multi-methodological approach to build a framework for utilizing stakeholder i
 @snap[south-east span-45]
 ![](assets/img/UZ_r.png)
 @snapend
-
----?color=white
-@snap[midpoint span-80]
-![](assets/img/c.png)
-@snapend
-
-@snap[south-west]
-model concept eberswalde residential mobility
-@snapend
-
----?color=white
-@snap[midpoint span-90]
-![](assets/img/c1.png)
-@snapend
-
-@snap[south-west]
-open geo data & data provided by the city
-@snapend
-
 
 ---
 @snap[south-west span-55]

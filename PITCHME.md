@@ -9,7 +9,7 @@
 ### Serious Games as a Research Device for Sustainable Resource Management
 What can agent-based modeling provide for understanding complex adaptive systems by integrating the multiple perspective of stakeholders in the field of Fisheries Management?
 
----
+---?color=white
 @snap[south-west span-55]
 ![](assets/img/WS3.jpg)
 @snapend

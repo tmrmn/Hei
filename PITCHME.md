@@ -34,11 +34,16 @@
 @snapend
 
 ---?color=white
-#### Serious Games as a Research Device
 @snap[east]
 ![](assets/img/circle.jpg)
 @snapend
+
 @snap[west]
-1. How to set up experimental settings and capture interactions using serious games?
-2. Develop a methodological approach to use serious games to inform social simulations.
+
+@size[2.0 em](1. How to set up experimental settings and capture interactions using serious games?)
+
+@size[2.0 em](2. Develop a methodological approach to use serious games to inform social simulations)
+@size[2.0 em](Faculty of Biosciences, Fisheries and Economics)
+
+
 @snapend

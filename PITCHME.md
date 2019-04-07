@@ -1,11 +1,9 @@
 ---?image=assets/img/cover.jpg
-@snap[midpoint]
-@size[2.5em](Timo Szczepanska)
+@snap[left]
+@size[2.0 em](Timo Szczepanska)
 @size[2.5em](UiT - Arctic University of Norway)
 <br>
-@size[2.5em](Serious Games as a Research Device for Sustainable Recource Management)
-
-
+@size[2.5em](Serious Games )
 @snapend
 
 ---?color=lightgray

@@ -1,15 +1,12 @@
 ---?image=assets/img/cover.jpg
 @snap[west]
-<br>
-
-<br>
 @size[2.0 em](Timo Szczepanska)<br>
 @size[2.0 em](UiT - Arctic University of Norway)<br>
 @size[2.0 em](Faculty of Biosciences, Fisheries and Economics)
 @snapend
 
 ---
-#### Serious Games as a Research Device for Sustainable Resource Management
+### Serious Games as a Research Device for Sustainable Resource Management
 What can agent-based modeling provide for understanding complex adaptive systems by integrating the multiple perspective of stakeholders in the field of Fisheries Management?
 
 ---
@@ -34,14 +31,14 @@ What can agent-based modeling provide for understanding complex adaptive systems
 ![](assets/img/g.png)
 @snapend
 
----?color=white
+---
 @snap[east span-40]
 ![](assets/img/circle.jpg)
 @snapend
 
 @snap[west span-60]
 
-1. How to set up experimental settings and capture interactions using serious games?
+1. How to set up experimental settings and capture interactions using serious games?<br>
 2. Develop a methodological approach to use serious games to inform social simulations
 
 

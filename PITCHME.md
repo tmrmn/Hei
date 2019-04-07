@@ -43,6 +43,6 @@ What can agent-based modeling provide for understanding complex adaptive systems
 
 @snap[west span-60]
 1. How to set up experimental settings and capture interactions using serious games?
-<br>
+<br><br>
 2. Utilize serious games as a tool to inform ABM?
 @snapend

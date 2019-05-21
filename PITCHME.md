@@ -2,7 +2,7 @@
 @snap[midpoint]
 @size[3.5em](Hei)
 <br>
-*-Background Stories-*
+*-Timo Szczepanska-*
 @snapend
 
 ---?color=lightgray
